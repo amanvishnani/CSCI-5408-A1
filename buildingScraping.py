@@ -1,42 +1,36 @@
 from util import *
 from models.Building import Building
+from models.BaseEntity import BaseEntity
+from models.XmlObject import XmlObject
+from models.XmlList import XmlList
 from typing import List, Dict
 
 campus_ids = dict()
 
 
-def build_ids(obj: Dict[str, int]):
-    i = 1
-    for key in obj.keys():
-        obj[key] = i
-        i = i + 1
-    pass
-
-
-def dict_to_xml_rows(obj: Dict[str, int], table_name: str):
-    xml = ""
-    for key in obj.keys():
-        xml = xml + """
-        <{} name="{}" id="{}"/>
-        """.format(table_name, key, obj[key])
-
-    return "<list> {} </list>".format(xml)
-
-
 def scrape_buildings(campus_ids):
     buildings = get_buildings(campus_ids)
-    i = 1
+    xml_list: List[XmlObject] = list()
     amenities: Dict[str, int] = dict()
+    generate_id(buildings)
     for b in buildings:
+        xml_list.append(b.to_xml_obj())
         for key in b.amenities.keys():
             amenities[key] = 1
-        b.id = i
-        i = i + 1
-        amenities.pop("Accessibilty")  # clean data
-    build_ids(amenities)
+    amenities.pop("Accessibilty")  # clean data
+    build_ids_from_dict(amenities)
     save_to_file(dict_to_xml_rows(amenities, "amenity"), "amenity.xml")
     save_to_file(dict_to_xml_rows(campus_ids, "campus"), "campus.xml")
+    b_list = XmlList()
+    b_list.from_list(buildings)
+    b_list.save("buildings.xml")
 
+def generate_id(entities: List[BaseEntity]):
+    i = 1
+    for entity in entities:
+        entity.id = i
+        i += 1
+    pass
 
 def save_to_file(text: str, file_name: str):
     try:
@@ -52,16 +46,17 @@ def get_buildings(campus_ids) -> List[Building]:
         campus_ids = dict()
     url = "https://www.dal.ca/content/dalhousie/en/home/campus-maps/building-directory/_jcr_content/contentPar/autosearcher.filterResults.ajax"
     building_list: List[Building] = list()
-    building_soup = getSoup(url)
+    building_soup = get_soup(url)
     buildings = building_soup.find_all("dt")
     i = 0
     for buildingDt in buildings:
+        i = i + 1
         building_url = buildingDt.find("a").get("href").strip()
         building_name = buildingDt.find("a").get_text()
         print("{}. Get Building Detail {}".format(i, building_name))
         building_detail = get_building_detail(building_url, campus_ids)
         building_list.append(building_detail)
-        i = i + 1
+
 
     return building_list
 
@@ -80,7 +75,7 @@ def get_building_detail(url, campus_ids) -> Building:
     url = "https://dal.ca" + url
     amenities = dict()
 
-    building_detail_soup = getSoup(url)
+    building_detail_soup = get_soup(url)
     campus = building_detail_soup.find("li", class_="open").find("a").get_text()
     campus_id = campus_ids.get(campus)
     if campus_id is None:
@@ -99,13 +94,9 @@ def get_building_detail(url, campus_ids) -> Building:
     amenities_table = sub_content.find_next("h3").find_next("table")
     trs = amenities_table.find_all("tr")
     for tr in trs:
-        amenities[tr.find("th").get_text()] = tr.find("td").get_text()
+        amenities[tr.find("th").get_text().strip()] = tr.find("td").get_text().strip()
 
     return Building(name, address, description, img_url, amenities, campus_id)
 
 
-# scrape_buildings(campus_ids)
-
-test_dict = {'Studley Campus': 1, 'Sexton Campus': 2, "University of King's College": 3, 'Agricultural Campus': 4,
-             'Carleton Campus': 5}
-save_to_file(dict_to_xml_rows(test_dict, "campus"), "campus.xml")
+scrape_buildings(campus_ids)
