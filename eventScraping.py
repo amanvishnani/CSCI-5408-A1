@@ -20,7 +20,9 @@ def getGlobalEvents():
                 link = event.find("a").get("href").strip();
                 time = event.find("dd").get_text().strip();
                 name = event.find("a").get_text().strip();
-                finalList.append(Event(name, date,time, link));
+                eventObj = Event(name, date,time, link)
+                eventObj = getEventDetails(eventObj);
+                finalList.append();
         except Exception as e: print(e)
     return finalList;
 
@@ -28,13 +30,13 @@ def getEventDetails(event):
     r = http.request('GET', event.link)
     soup = BeautifulSoup(r.data, features="html.parser");
 
-    description = soup.find("h1").find_next_sibling("p");
+    description = soup.find("h1").find_next("p");
     event.description = description.get_text().strip();
 
-    category = description.find_next_sibling("h4").find_next_sibling("p");
+    category = description.find_next("h4").find_next("p");
     event.category = category.get_text().strip();
 
-    time = category.find_next_sibling("h4").find_next_sibling("p");
+    time = category.find_next("h4").find_next("p");
     endIdx = time.get_text().index("Ends:")
     event.startTime = time.get_text()[:endIdx].strip()[8:]
     event.endTime = time.get_text()[endIdx:].strip()[6:]

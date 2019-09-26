@@ -1,5 +1,3 @@
-
-
 class Event:
     name = None
     date = None
@@ -9,8 +7,8 @@ class Event:
     location = None
     cost = None
     category = None
-    additionalInformation = None
     description = None
+
     def __init__(self, name, date, time, link):
         self.name = name;
         self.date = date;
