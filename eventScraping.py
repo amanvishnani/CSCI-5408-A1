@@ -1,5 +1,5 @@
 import urllib3
-from Event import *
+from models.Event import *
 from bs4 import BeautifulSoup
 
 http = urllib3.PoolManager()

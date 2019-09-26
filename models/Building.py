@@ -1,5 +1,6 @@
 class Building:
     def __init__(self, name: str, address: str, description: str, image_url: str, amenities: dict, campus_id: int):
+        self.id = None
         self.name = name;
         self.address = address
         self.description = description;
