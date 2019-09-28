@@ -66,7 +66,26 @@ def get_building_id(address: str, input_file="./out/buildings.xml"):
         for b in b_list:
             b_addr = b.find_next("address").get_text()
             if b_addr in address:
-                return int(b.find_next("id").get_text())
+                return b.find_next("id").get_text()
+    except Exception as e:
+        print(e)
+        return None
+
+
+def get_department_id(name_of_dept):
+    return generic_search(name_of_dept, "department", "name", "./out/departments.xml", "id")
+
+
+def generic_search(text: str, row_tag, lookup_by_tag, input_file, return_tag):
+    try:
+        file = open(input_file, 'r', encoding="utf-8")
+        string = file.read()
+        soup = BeautifulSoup(string, features="html.parser")
+        my_list = soup.find_all(row_tag)
+        for b in my_list:
+            search_string = b.find_next(lookup_by_tag).get_text()
+            if text in search_string:
+                return b.find_next(return_tag).get_text()
     except Exception as e:
         print(e)
         return None

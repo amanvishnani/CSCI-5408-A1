@@ -32,6 +32,11 @@ def get_global_events():
     return xml_list
 
 
+def clean_location(location: str):
+    location = location.replace("Ave,", "Avenue,")
+    return location
+
+
 def get_event_details(event):
     try:
         soup = get_soup(event.link)
@@ -65,6 +70,10 @@ def get_event_details(event):
         if location is not None:
             location = location.find_next('p')
             event.location = location.get_text().strip()
+            event.location = clean_location(event.location)
+            b_id = get_building_id(location)
+            if b_id is not None:
+                event.building_id = b_id
 
         cost = soup.find("h4", string="Cost")
         if cost is not None:
