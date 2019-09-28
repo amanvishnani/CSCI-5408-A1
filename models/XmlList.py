@@ -5,12 +5,10 @@ from bs4 import  BeautifulSoup
 
 
 class XmlList:
-    xml_list = list()
-    tag_name = "list"
 
-    def __int__(self, tag_name: str = "list"):
+    def __init__(self, tag_name: str = "list"):
         self.tag_name = tag_name
-        self.xml_list = list()
+        self.xml_list: List[XmlObject] = []
 
     def add(self, value: XmlObject):
         self.xml_list.append(value)

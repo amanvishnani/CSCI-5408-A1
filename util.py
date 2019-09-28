@@ -55,5 +55,19 @@ def generate_id(entities: List[BaseIdentityEntity]):
     for entity in entities:
         entity.id = i
         i += 1
-    pass
+
+
+def get_building_id(address: str, input_file="./out/buildings.xml"):
+    try:
+        file = open(input_file, 'r', encoding="utf-8")
+        string = file.read()
+        soup = BeautifulSoup(string, features="html.parser")
+        b_list = soup.find_all("building")
+        for b in b_list:
+            b_addr = b.find_next("address").get_text()
+            if b_addr in address:
+                return int(b.find_next("id").get_text())
+    except Exception as e:
+        print(e)
+        return None
 
