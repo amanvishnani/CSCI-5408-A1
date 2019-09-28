@@ -1,6 +1,7 @@
 import urllib3
 from bs4 import BeautifulSoup
 from typing import List, Dict
+from models.BaseIdentityEntity import BaseIdentityEntity
 
 http = urllib3.PoolManager()
 
@@ -38,3 +39,21 @@ def dict_to_xml_rows(obj: Dict[str, int], table_name: str):
     return """<?xml version="1.0"?>
     <list> {} </list>
     """.format(xml)
+
+def save_to_file(text: str, file_name: str):
+    try:
+        f = open("out/"+file_name, "w+", encoding="utf-8")
+        soup = BeautifulSoup(text, features="html.parser")
+        f.write(soup.prettify())
+        f.close()
+    except Exception as e:
+        print(e)
+
+
+def generate_id(entities: List[BaseIdentityEntity]):
+    i = 1
+    for entity in entities:
+        entity.id = i
+        i += 1
+    pass
+

@@ -1,7 +1,5 @@
 from util import *
 from models.Building import Building
-from models.BaseEntity import BaseEntity
-from models.XmlObject import XmlObject
 from models.XmlList import XmlList
 from typing import List, Dict
 
@@ -10,36 +8,17 @@ campus_ids = dict()
 
 def scrape_buildings(campus_ids):
     buildings = get_buildings(campus_ids)
-    xml_list: List[XmlObject] = list()
+    b_list = XmlList()
     amenities: Dict[str, int] = dict()
     generate_id(buildings)
     for b in buildings:
-        xml_list.append(b.to_xml_obj())
+        b_list.add(b.to_xml_obj())
         for key in b.amenities.keys():
             amenities[key] = 1
-    amenities.pop("Accessibilty")  # clean data
     build_ids_from_dict(amenities)
-    save_to_file(dict_to_xml_rows(amenities, "amenity"), "amenity.xml")
+    # save_to_file(dict_to_xml_rows(amenities, "amenity"), "amenity.xml")
     save_to_file(dict_to_xml_rows(campus_ids, "campus"), "campus.xml")
-    b_list = XmlList()
-    b_list.from_list(buildings)
     b_list.save("buildings.xml")
-
-def generate_id(entities: List[BaseEntity]):
-    i = 1
-    for entity in entities:
-        entity.id = i
-        i += 1
-    pass
-
-def save_to_file(text: str, file_name: str):
-    try:
-        f = open(file_name, "w+")
-        f.write(text)
-        f.close()
-    except Exception as e:
-        print(e)
-
 
 def get_buildings(campus_ids) -> List[Building]:
     if campus_ids is None:
@@ -94,7 +73,11 @@ def get_building_detail(url, campus_ids) -> Building:
     amenities_table = sub_content.find_next("h3").find_next("table")
     trs = amenities_table.find_all("tr")
     for tr in trs:
-        amenities[tr.find("th").get_text().strip()] = tr.find("td").get_text().strip()
+        key = tr.find("th").get_text().strip()
+        value = tr.find("td").get_text().strip()
+        if key == "Accessibilty":
+            key = "Accessibility";
+        amenities[key] = value
 
     return Building(name, address, description, img_url, amenities, campus_id)
 

@@ -1,6 +1,9 @@
-class BaseEntity:
-    def __init__(self, id=None):
-        self.id: int = id;
+from models.XmlObject import XmlObject
 
-    def to_xml_obj(self):
+
+class BaseEntity:
+    def __init__(self):
+        pass
+
+    def to_xml_obj(self) -> XmlObject:
         raise Exception("Method not implemented")

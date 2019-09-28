@@ -1,12 +1,14 @@
 from models.XmlObject import XmlObject
-from models.BaseEntity import  BaseEntity
+from models.BaseIdentityEntity import  BaseIdentityEntity
 from util import *
 
 
-class Building(BaseEntity):
+class Building(BaseIdentityEntity):
 
-    def __init__(self, name: str, address: str, description: str, image_url: str, amenities: dict, campus_id: int):
-        BaseEntity.__init__(self, None)
+    amenities: Dict[str, str] = dict();
+
+    def __init__(self, name: str, address: str, description: str, image_url: str, amenities: Dict[str, str], campus_id: int):
+        BaseIdentityEntity.__init__(self, None)
         self.name = name
         self.address = address
         self.description = description
@@ -25,5 +27,8 @@ class Building(BaseEntity):
         obj.add("address", self.address)
         obj.add("description", self.description)
         obj.add("image_url", self.image_url)
+        for key in self.amenities:
+            new_key = key.replace(" ","_").lower();
+            obj.add(new_key, self.amenities.get(key));
 
         return obj

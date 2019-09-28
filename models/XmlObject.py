@@ -12,14 +12,14 @@ class XmlObject:
         self.attributes[key] = value
 
     def __str__(self):
-        xml = """<{} {} />"""
+        xml = """<{}> {} </{}>"""
         attributes = ""
         for key in self.attributes.keys():
             value = self.attributes[key]
             if type(value) is str:
                 value = sanitize_xml_data(value)
-                attributes = '{} {}="{}"'.format(attributes, key, value)
-        return xml.format(self.tag_name, attributes)
+            attributes = '{} <{}> {} </{}>'.format(attributes, key, value, key)
+        return xml.format(self.tag_name, attributes, self.tag_name);
 
 
 def sanitize_xml_data(data: str):
