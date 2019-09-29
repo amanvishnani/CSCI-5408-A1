@@ -2,7 +2,6 @@ from models.People import People
 from models.XmlObject import XmlObject
 
 
-
 class Staff(People):
     def __init__(self, first_name, last_name, salutation, position):
         People.__init__(self, first_name, last_name, salutation)
@@ -15,4 +14,3 @@ class Staff(People):
         xml_obj.add('department_id', self.department_id)
         xml_obj.add('id', self.id)
         return xml_obj
-

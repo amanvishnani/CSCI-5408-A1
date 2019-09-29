@@ -16,6 +16,8 @@ class XmlObject:
         attributes = ""
         for key in self.attributes.keys():
             value = self.attributes[key]
+            if value is None:
+                value = ""
             if type(value) is str:
                 value = sanitize_xml_data(value)
             attributes = '{} <{}> {} </{}>'.format(attributes, key, value, key)

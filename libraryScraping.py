@@ -21,6 +21,7 @@ def populate_details(obj: Union[LibraryService, Library]):
 
 
 def scrape_libraries_services():
+    print("*************** Scraping Libraries and Services *********************")
     soup = get_soup(base_url)
     dl = soup.find("dl", {'id': 'locations-table'})
     anchor_nodes = dl.find_all("a")
@@ -49,4 +50,4 @@ def scrape_libraries_services():
         xml_services_list.save("services.xml")
 
 
-scrape_libraries_services()
+# scrape_libraries_services()

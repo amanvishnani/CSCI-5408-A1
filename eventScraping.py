@@ -1,8 +1,5 @@
-import urllib3
 from models.Event import *
-from bs4 import BeautifulSoup
 from models.XmlList import XmlList
-from typing import List
 from util import *
 
 http = urllib3.PoolManager()
@@ -84,5 +81,7 @@ def get_event_details(event):
     return event
 
 
-dal_events = get_global_events()
-dal_events.save("events.xml")
+def scrapeGlobalEvents():
+    print("*************** Scraping Global Events *********************")
+    dal_events = get_global_events()
+    dal_events.save("events.xml")

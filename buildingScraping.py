@@ -3,10 +3,11 @@ from models.Building import Building
 from models.XmlList import XmlList
 from typing import List, Dict
 
-campus_ids = dict()
 
 
-def scrape_buildings(campus_ids):
+
+def scrape_buildings():
+    campus_ids = dict()
     buildings = get_buildings(campus_ids)
     b_list = XmlList()
     amenities: Dict[str, int] = dict()
@@ -82,4 +83,4 @@ def get_building_detail(url, campus_ids) -> Building:
     return Building(name, address, description, img_url, amenities, campus_id)
 
 
-scrape_buildings(campus_ids)
+# scrape_buildings()

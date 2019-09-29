@@ -5,6 +5,7 @@ from models.Department import Department
 
 
 def scrape_faculty():
+    print("*************** Scraping Faculty *********************")
     url = 'https://www.dal.ca/academics/faculties.html';
     soup = get_soup(url)
     main_div = soup.find_all("div", class_="text parbase section")
@@ -13,7 +14,9 @@ def scrape_faculty():
     for child in main_div:
         if is_faculty(child):
             name = child.find_next("h2").get_text().strip()
-            href = "https://dal.ca" + child.find_next("h2").find_next('a').get("href").strip()
+            href = child.find_next("h2").find_next('a').get("href").strip()
+            if not href.startswith("http"):
+                href = "https://dal.ca" + href
             faculty = Faculty(name, href)
             f_list.append(faculty)
     generate_id(f_list)
@@ -28,8 +31,10 @@ def is_faculty(node):
         return True
     pass
 
+
 def scrapeDepartment():
-    url = 'https://www.dal.ca/academics/faculties.html';
+    print("*************** Scraping Departments *********************")
+    url = 'https://www.dal.ca/academics/faculties.html'
     soup = get_soup(url)
     main_div = soup.find_all("div", class_="expandingSubsection section")
     d_list = list()
@@ -43,6 +48,3 @@ def scrapeDepartment():
         pass
     generate_id(d_list)
     XmlList().from_list(d_list).save("departments.xml")
-
-# scrape_faculty()
-scrapeDepartment()
