@@ -19,7 +19,7 @@ def scrape_buildings():
     build_ids_from_dict(amenities)
     # save_to_file(dict_to_xml_rows(amenities, "amenity"), "amenity.xml")
     save_to_file(dict_to_xml_rows(campus_ids, "campus"), "campus.xml")
-    b_list.save("buildings.xml")
+    b_list.save("building.xml")
 
 def get_buildings(campus_ids) -> List[Building]:
     if campus_ids is None:

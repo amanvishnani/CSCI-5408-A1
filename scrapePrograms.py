@@ -39,6 +39,6 @@ def scrapeUndergraduatePrograms():
             p.campus_id = get_campus_id(campus.strip().split(", ")[0])
         p_list.append(p)
         generate_id(p_list)
-    XmlList().from_list(p_list).save("programs.xml")
+    XmlList().from_list(p_list).save("program.xml")
 
 # scrapeUndergraduatePrograms()

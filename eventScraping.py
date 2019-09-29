@@ -84,4 +84,4 @@ def get_event_details(event):
 def scrapeGlobalEvents():
     print("*************** Scraping Global Events *********************")
     dal_events = get_global_events()
-    dal_events.save("events.xml")
+    dal_events.save("event.xml")

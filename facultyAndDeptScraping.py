@@ -47,4 +47,4 @@ def scrapeDepartment():
             d_list.append(Department(txt, link))
         pass
     generate_id(d_list)
-    XmlList().from_list(d_list).save("departments.xml")
+    XmlList().from_list(d_list).save("department.xml")

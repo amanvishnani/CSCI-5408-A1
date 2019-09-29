@@ -1,6 +1,6 @@
 from util import *
 from models.Staff import Staff
-from models.Staff import People
+from models.Staff import Person
 from models.XmlList import XmlList
 
 
@@ -46,10 +46,10 @@ def scrape_staff_main():
     all_staff = all_staff + staff_1 + staff_2
     XmlList().from_list(all_staff).save("staff.xml")
     for staff in all_staff:
-        p = People(staff.first_name, staff.last_name, staff.salutation)
+        p = Person(staff.first_name, staff.last_name, staff.salutation)
         p.id = staff.id
         all_people.append(p)
-    XmlList().from_list(all_people).save("people.xml")
+    XmlList().from_list(all_people).save("person.xml")
 
 
 # scrape_staff_main()

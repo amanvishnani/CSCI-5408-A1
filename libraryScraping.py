@@ -45,9 +45,9 @@ def scrape_libraries_services():
         generate_id(libraries)
         generate_id(services)
         xml_lib_list = XmlList().from_list(libraries)
-        xml_lib_list.save("libraries.xml")
+        xml_lib_list.save("library.xml")
         xml_services_list = XmlList().from_list(services)
-        xml_services_list.save("services.xml")
+        xml_services_list.save("library_service.xml")
 
 
 # scrape_libraries_services()

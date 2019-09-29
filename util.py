@@ -61,7 +61,7 @@ def generate_id(entities: List[BaseIdentityEntity]):
         i += 1
 
 
-def get_building_id(address: str, input_file="./out/buildings.xml"):
+def get_building_id(address: str, input_file="./out/building.xml"):
     try:
         file = open(input_file, 'r', encoding="utf-8")
         string = file.read()
@@ -77,7 +77,7 @@ def get_building_id(address: str, input_file="./out/buildings.xml"):
 
 
 def get_department_id(name_of_dept):
-    return generic_search(name_of_dept, "department", "name", "./out/departments.xml", "id")
+    return generic_search(name_of_dept, "department", "name", "./out/department.xml", "id")
 
 
 def get_faculty_id(name_of_faculty):
@@ -101,6 +101,7 @@ def generic_search(text: str, row_tag, lookup_by_tag, input_file, return_tag):
     except Exception as e:
         print(e)
         return ""
+
 
 def dal_prefix(url: str):
     if not url.startswith("http"):
