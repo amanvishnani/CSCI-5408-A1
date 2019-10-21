@@ -15,4 +15,5 @@ class CampusService(BaseIdentityEntity):
         xml_obj = XmlObject("campus_service")
         xml_obj.add("name", self.name)
         xml_obj.add("web_page_url", self.web_page_url)
+        xml_obj.add("id", self.id)
         return xml_obj

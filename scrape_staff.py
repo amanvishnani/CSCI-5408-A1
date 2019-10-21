@@ -18,6 +18,7 @@ def scrape_medicine_staff():
             last_name = name.pop(-1)
             first_name = " ".join(name)
             staff = Staff(first_name, last_name, salutation, position)
+            staff.department_id = dept_id
             s_list.append(staff)
     return s_list
 
@@ -33,7 +34,6 @@ def scrape_anesthesia_staff():
         staff = Staff(name[0], name[1], "", position)
         staff.department_id = dept_id
         s_list.append(staff)
-    generate_id(s_list)
     return s_list
 
 
@@ -44,6 +44,7 @@ def scrape_staff_main():
     staff_1 = scrape_anesthesia_staff()
     staff_2 = scrape_medicine_staff()
     all_staff = all_staff + staff_1 + staff_2
+    generate_id(all_staff)
     XmlList().from_list(all_staff).save("staff.xml")
     for staff in all_staff:
         p = Person(staff.first_name, staff.last_name, staff.salutation)
@@ -52,4 +53,4 @@ def scrape_staff_main():
     XmlList().from_list(all_people).save("person.xml")
 
 
-# scrape_staff_main()
+scrape_staff_main()

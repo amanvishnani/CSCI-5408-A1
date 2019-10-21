@@ -11,13 +11,16 @@ def scrapeCampusServices():
     service_list: List[CampusService] = list()
     web_link_list: List[WebLinks] = list()
 
+    service_id = 0
     for node in service_nodes:
+        service_id = service_id + 1
         link_nodes = node.find_next("ul").find_all("li");
         service = node.find_next("h4").find_next("a")
         service_url = service.get("href")
         service_url = dal_prefix(service_url)
         service_name = service.get_text()
         campus_service = CampusService(service_name, service_url)
+        campus_service.id = service_id
         service_list.append(campus_service)
         for link_node in link_nodes:
             link = link_node.find_next("a")
@@ -25,6 +28,7 @@ def scrapeCampusServices():
             url = dal_prefix(url)
             text = link.get_text()
             web_link = WebLinks(text, url, service_name)
+            web_link.service_id = service_id
             web_link_list.append(web_link)
 
     xml_camp_service = XmlList()
