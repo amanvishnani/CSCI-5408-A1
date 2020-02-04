@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<list>
+ <campus>
+  <name>
+   Studley Campus
+  </name>
+  <id>
+   1
+  </id>
+ </campus>
+ <campus>
+  <name>
+   Sexton Campus
+  </name>
+  <id>
+   2
+  </id>
+ </campus>
+ <campus>
+  <name>
+   University of King's College
+  </name>
+  <id>
+   3
+  </id>
+ </campus>
+ <campus>
+  <name>
+   Agricultural Campus
+  </name>
+  <id>
+   4
+  </id>
+ </campus>
+ <campus>
+  <name>
+   Carleton Campus
+  </name>
+  <id>
+   5
+  </id>
+ </campus>
+</list>

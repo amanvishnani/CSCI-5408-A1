@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<list>
+ <library_service>
+  <name>
+   GIS Centre
+  </name>
+  <website>
+   http://libraries.dal.ca/gis
+  </website>
+  <note>
+   Note: Evenings &amp; weekends: Basic information and referral service is available at the first floor Killam Library Service point.
+  </note>
+  <address>
+   5th Floor Killam Memorial Library
+Dalhousie University
+6225 University Avenue
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </address>
+  <building_id>
+   5
+  </building_id>
+  <id>
+   1
+  </id>
+  <library_id>
+   4
+  </library_id>
+ </library_service>
+ <library_service>
+  <name>
+   Killam Help Desk
+  </name>
+  <website>
+   http://libraries.dal.ca/helpdesk
+  </website>
+  <note>
+   Note: Evenings &amp; weekends: Basic information and referral service is available at the first floor Killam Library Service point.
+  </note>
+  <address>
+   1st Floor, Killam Memorial Library
+Dalhousie University
+6225 University Avenue
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </address>
+  <building_id>
+   5
+  </building_id>
+  <id>
+   2
+  </id>
+  <library_id>
+   4
+  </library_id>
+ </library_service>
+ <library_service>
+  <name>
+   Archives &amp; Special Collections Reading Room
+  </name>
+  <website>
+   http://libraries.dal.ca/hours-locations/killam/archives-specialcollections-reading-room.html
+  </website>
+  <note>
+   Note: Evenings &amp; weekends: Basic information and referral service is available at the first floor Killam Library Service point.
+  </note>
+  <address>
+   5th Floor, Killam Memorial Library
+Dalhousie University
+6225 University Avenue
+PO Box 15000
+Halifax, Nova Scotia, Canada 
+B3H 4R2
+  </address>
+  <building_id>
+   5
+  </building_id>
+  <id>
+   3
+  </id>
+  <library_id>
+   4
+  </library_id>
+ </library_service>
+ <library_service>
+  <name>
+   Sexton Help Desk
+  </name>
+  <website>
+   http://libraries.dal.ca/helpdesk
+  </website>
+  <note>
+   Note: The MacRae Service Point closes 15 minutes prior to the building closure.Reference Service is also available by appointment.
+  </note>
+  <address>
+   Sexton Design &amp; Technology Library
+Dalhousie University
+3rd Floor, Buildings A and B
+1360 Barrington Street
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </address>
+  <building_id>
+   5
+  </building_id>
+  <id>
+   4
+  </id>
+  <library_id>
+   5
+  </library_id>
+ </library_service>
+</list>

@@ -7,7 +7,7 @@ def scrapeUndergraduatePrograms():
     print("*************** Scraping UG Programs *********************")
     url = "https://www.dal.ca/academics/programs.html"
     soup = get_soup(url)
-    programs_tag = soup.find("div", {'id':'node_5c67b3ccd62d40c7884aa43542ff83edcontentPartabcontainerentriestabentry'}).find_all("dt")
+    programs_tag = soup.find("div", {'id':'node_9d9b8bcabfe64055a607401063a8f68econtentPartabcontainerentriestabentry'}).find_all("dt")
     p_list: List[Program] = list()
     for tag in programs_tag:
         name = tag.find("a").get_text()
@@ -41,4 +41,4 @@ def scrapeUndergraduatePrograms():
         generate_id(p_list)
     XmlList().from_list(p_list).save("program.xml")
 
-# scrapeUndergraduatePrograms()
+scrapeUndergraduatePrograms()

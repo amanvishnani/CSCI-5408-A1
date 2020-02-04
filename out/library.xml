@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<list>
+ <library>
+  <name>
+   Sir James Dunn Law Library
+  </name>
+  <website>
+   http://libraries.dal.ca/dunn
+  </website>
+  <note>
+   Note: Service Point closes 15 minutes before building closes.
+  </note>
+  <address>
+   Sir James Dunn Law Library
+Dalhousie University
+6061 University Avenue
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </address>
+  <id>
+   1
+  </id>
+  <building_id>
+   5
+  </building_id>
+ </library>
+ <library>
+  <name>
+   W.K. Kellogg Health Sciences Library
+  </name>
+  <website>
+   http://libraries.dal.ca/kellogg
+  </website>
+  <note>
+   Note: When the building opens at 8:00 a.m., service starts at 8:30 a.m.Note: Service Point closes 15 minutes before building closes.
+  </note>
+  <address>
+   W. K. Kellogg Health Sciences Library
+Sir Charles Tupper Medical Building
+5850 College Street
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </address>
+  <id>
+   2
+  </id>
+  <building_id>
+   5
+  </building_id>
+ </library>
+ <library>
+  <name>
+   Kellogg Library Learning Commons (CHEB)
+  </name>
+  <website>
+   http://libraries.dal.ca/cheb
+  </website>
+  <note>
+   Note: When the building opens at 7:30 a.m., service starts at 8 a.m.
+  </note>
+  <address>
+   Collaborative Health Education Building
+Dalhousie University
+5793 University Avenue
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </address>
+  <id>
+   3
+  </id>
+  <building_id>
+   5
+  </building_id>
+ </library>
+ <library>
+  <name>
+   Killam Memorial Library
+  </name>
+  <website>
+   http://libraries.dal.ca/killam
+  </website>
+  <note>
+   Note: When the building opens at 7:30 a.m., services begin at 8 a.m.Note: During regular hours the Killam Library Service Point closes 15 minutes before the building closes.
+  </note>
+  <address>
+   Killam Memorial Library
+Dalhousie University
+6225 University Avenue
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </address>
+  <id>
+   4
+  </id>
+  <building_id>
+   5
+  </building_id>
+ </library>
+ <library>
+  <name>
+   Sexton Design &amp; Technology Library
+  </name>
+  <website>
+   http://libraries.dal.ca/sexton
+  </website>
+  <note>
+   Note: The MacRae Service Point closes 15 minutes prior to the building closure.Reference Service is also available by appointment.
+  </note>
+  <address>
+   Sexton Design &amp; Technology Library
+Dalhousie University
+3rd Floor, Buildings A and B
+1360 Barrington Street
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </address>
+  <id>
+   5
+  </id>
+  <building_id>
+   5
+  </building_id>
+ </library>
+ <library>
+  <name>
+   MacRae Library (Truro)
+  </name>
+  <website>
+   http://libraries.dal.ca/macrae
+  </website>
+  <note>
+   Note: The MacRae Service Point closes 15 minutes prior to the building closure.Reference Service is also available by appointment.
+  </note>
+  <address>
+   MacRae Library
+Dalhousie University
+135 College Road
+P.O. Box 550
+Truro, Nova Scotia, Canada
+B2N 5E3
+  </address>
+  <id>
+   6
+  </id>
+  <building_id>
+   5
+  </building_id>
+ </library>
+ <library>
+  <name>
+   Wallace McCain Learning Commons
+  </name>
+  <website>
+   http://libraries.dal.ca/hours-locations/wmlc.html
+  </website>
+  <note>
+  </note>
+  <address>
+   Wallace McCain Learning Commons
+Dalhousie University
+Lord Dalhousie Dr
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4J1
+  </address>
+  <id>
+   7
+  </id>
+  <building_id>
+   5
+  </building_id>
+ </library>
+</list>

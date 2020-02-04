@@ -1,0 +1,4574 @@
+<?xml version="1.0"?>
+<list>
+ <building>
+  <name>
+   6420 Coburg Road
+  </name>
+  <id>
+   1
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6420 Coburg Road
+  </address>
+  <description>
+   This building houses research facilities for various departments at Dalhousie.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/6420coburg.jpg.lt_89e918dd7ef39f00f8420edcd1275668.res/6420coburg.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   A, B, C, D Building complex &amp; Sexton Library
+  </name>
+  <id>
+   2
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1360 Barrington Street
+  </address>
+  <description>
+   The A, B, C and D buildings on the Sexton campus brings together a complex set of several buildings and additions.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/complex-library.jpg.lt_852f9d60373dafd8b52c53e0e460a155.res/complex-library.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Sexton Library
+  </study_space>
+  <lounge_area>
+   Alumni Lounge
+  </lounge_area>
+  <computer_access>
+   Available in the Alcove and Rooms B316, C300, C318
+  </computer_access>
+  <food_services>
+   Tim Hortons &amp; Express
+  </food_services>
+  <accessibility>
+   entrance, ramp, varying access throughout complex
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   A.E. Cameron Building (P Building)
+  </name>
+  <id>
+   3
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1360 Barrington Street
+  </address>
+  <description>
+   The renovation of the F and P buildings will expand Dalhousie’s existing research, commercialization, and innovation infrastructure facilities.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/cameron.jpg.lt_ce57b17433281719006e2065164fe766.res/cameron.jpg
+  </image_url>
+  <wireless>
+   n/a
+  </wireless>
+  <study_space>
+   n/a
+  </study_space>
+  <lounge_area>
+   n/a
+  </lounge_area>
+  <computer_access>
+   n/a
+  </computer_access>
+  <food_services>
+   n/a
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Alexandra Hall
+  </name>
+  <id>
+   4
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   1st Floor: The Manning Room, 2nd/3rd Floor: TV common room
+  </lounge_area>
+  <computer_access>
+   Computer lab in the basement
+  </computer_access>
+  <food_services>
+   In Prince Hall
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Alumni Gardens
+  </name>
+  <id>
+   5
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+  </address>
+  <description>
+   Alumni Gardens is a great escape from your busy student life, with lots of flowers, arbours and a bandstand with picnic table. This spot is a great spot for those family photos!
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/AgAlumni-garden-slide.jpg.lt_9d5f82ceba4129a72e3f2190c4eab3d1.res/AgAlumni-garden-slide.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Applied Research Collaborations for Health (ARCH)
+  </name>
+  <id>
+   6
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1318 Robie Street
+  </address>
+  <description>
+   Applied Research Collaborations for Health (ARCH) is an interdisciplinary research group within the School of Health Administration, part of the Faculty of Health Professions at Dalhousie University. Located in a Victorian house on Robie Street, the centre also provides meeting and office space for several professors and graduate students.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/arch.jpg.lt_83921c703af194e56377bedc8838bbde.res/arch.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Atlantic Poultry Research Centre
+  </name>
+  <id>
+   7
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   19 Farm Lane
+  </address>
+  <description>
+   This is a $9.8 million facility where you can learn and participate in research projects related to poultry production from hatching to value-added product processing.Think state-of-the-art environmental controls and computerized data collection to facilitate good science.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/poultry-research.jpg.lt_d190e7e88749d9418d5b1c19949e3e10.res/poultry-research.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Banting Building
+  </name>
+  <id>
+   8
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   39 Cox Road
+  </address>
+  <description>
+   The Banting Building offers high quality learning facilities for our engineering students, housing our engineering faculty and facilities in one central location. You’ll find classrooms, labs and workshops here. The building is named in honour of E. Angus Banting, the first Professor of Agricultural Engineering at the NSAC (1937-52).
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/banting.jpg.lt_bcb2be861308f6057bb7d3f7d4cbc772.res/banting.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Beef Barn
+  </name>
+  <id>
+   9
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   23 Farmstead Court
+  </address>
+  <description>
+   The Beef Barn is part of the Ruminant Animal Centre (RAC), which is a teaching and research facility for ruminant animal production (that’s animals that have stomachs with four compartments that break down fibrous material like grass). RAC has a classroom, research lab and a computerized diet centre (for animals, not students). RAC houses our cows plus multiple groups of sheep for research and teaching.
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Bernard Cain Building (Q Building)
+  </name>
+  <id>
+   10
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1360 Barrington Street
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/q-building.jpg.lt_3a5b4ffa4eeb2d9e2d8ed163ab87de0b.res/q-building.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Bike Centre
+  </name>
+  <id>
+   11
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1 Alumni Crescent
+  </address>
+  <description>
+   Need a place to work on your bike? The Campus Bike Centre, located in the Studley Gym, offers drop-in sessions and classes in bicycle repair/maintenance and cycling safety education. Staff/volunteers work with bike owners to help locate and fix problems. You can't drop off a bike to be fixed. The Bike Centre is not a bike shop -- rather, it is a bike workshop.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/bike-centre.jpg.lt_8e6b0c8e75600cb0c4b35e835689305d.res/bike-centre.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Black Student Advising/ Indigenous Student Centre
+  </name>
+  <id>
+   12
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1321 Edward Street
+  </address>
+  <description>
+   The Black Student Advising Centre, on the second floor, supports all black students in pursuit of post-secondary education at Dalhousie and the University of King's College.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/multifaith.jpg.lt_a67e0ae3d62fbe47154a6a99670dd3b6.res/multifaith.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   Yes
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, first floor access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Boulden Building
+  </name>
+  <id>
+   13
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   110 River Road
+  </address>
+  <description>
+   This is the headquarters for our Vet Tech program. You’ll find the clinic, which is actually your classroom, and a kennel with dogs and cats. This is also where the Faculty of Agriculture's ‘supermice’ colony resides.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/boulden.jpg.lt_e99098ac3c6581994467c3fc0332398d.res/boulden.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Burbidge Building
+  </name>
+  <id>
+   14
+  </id>
+  <campus_id>
+   5
+  </campus_id>
+  <address>
+   5968 College Street
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/burbidge.jpg.lt_595287c317dda1db8e9b60d06de2445f.res/burbidge.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Room 101
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, ground floor access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Canadian Centre for Fur Animal Research
+  </name>
+  <id>
+   15
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   2 Farm Lane
+  </address>
+  <description>
+   The Fur Unit was initiated in 1984 as a teaching and research unit. The animal housing facilities include a pelter shed and individual outside breeder pens for silver foxes and two traditional two-row sheds for mink. The unit also houses American Marten. An additional building, opened in 1989, includes a feed kitchen, metabolism rooms, a laboratory, and an office. A new, technologically advanced mink facility is being constructed to enhance research and development capability in the Canadian Centre for Fur Animal Research (CCFAR).
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Central Heating Plant
+  </name>
+  <id>
+   16
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   43 River Road
+  </address>
+  <description>
+   In 1988 the central heating plant was renovated to include a wood chip boiler and chip storage bin.
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Central Services
+  </name>
+  <id>
+   17
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1236 Henry Street
+  </address>
+  <description>
+   The Dalhousie Office of Sustainability, found on the 5th floor
+of the Central Services building, works to incorporate sustainability concepts and criteria into policy and planning, building and retrofit projects, and operations. The Office strives to engage and encourage student, staff, and faculty in practicing sustainable behavior.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/central-services.jpg.lt_6fe5cb9f84fc3d4a673422244129949e.res/central-services.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   mostly accessible, parking
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Chapel
+  </name>
+  <id>
+   18
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Chapel Bay
+  </name>
+  <id>
+   19
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   In Prince Hall
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Chapman House
+  </name>
+  <id>
+   20
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   20 Horseshoe Crescent
+  </address>
+  <description>
+   Chapman House is co-ed with 180 students. You get a student lounge/games room, a TV room, a kitchenette (for light snack preparation) and a laundry room on the ground level. All rooms have phone, TV and highspeed internet connections.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/chapman.jpg.lt_8a0cb4356395f303e1d737fe40d047b9.res/chapman.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Chapter House
+  </name>
+  <id>
+   21
+  </id>
+  <campus_id>
+   5
+  </campus_id>
+  <address>
+   5743 University Avenue
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/chapter-house.jpg.lt_f9e94a09ed47582a8975ebf41694d28f.res/chapter-house.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   washroom, elevator, ramp, entrance
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Chase Building
+  </name>
+  <id>
+   22
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6316 Coburg Road
+  </address>
+  <description>
+   The Chase Building is one of the oldest buildings on the Studley campus. Today the Chase Building houses the Department of Mathematics and Statistics.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/chase.jpg.lt_10967cc4c3f5667f254f50d611f1e12e.res/chase.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   full access, parking
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Chef's Garden
+  </name>
+  <id>
+   23
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+  </address>
+  <description>
+   The Chef's Garden is located in the field behind the Banting Building on the Agricultural Campus. Garden vegetables are provided for on-campus dining and education.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/Chefs-Garden-Agricultural.jpg.lt_46f2f138433007b7f80cd1cbe398df0d.res/Chefs-Garden-Agricultural.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Chemistry
+  </name>
+  <id>
+   24
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6274 Coburg Road
+  </address>
+  <description>
+   The first building constructed on Dalhousie's Studley campus, this gracious, Georgian-styled building is currently occupied by the Department of Chemistry. During 1964-65, a link was constructed to the Macdonald Library, creating 40,000 square feet of new floor space. Renovations in 1991 added almost 23,000 square feet on the north side of the building, including new undergraduate laboratories.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/chemistry.jpg.lt_198ff4bff6d65f31011076c17209f10b.res/chemistry.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Room 122
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Chute Nutrition Centre
+  </name>
+  <id>
+   25
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   21 Farm Lane
+  </address>
+  <description>
+   The Chute Animal Nutrition Centre is a state of the art feed preparation facility with capabilities for all animal species. The nutrition complex is capable of large and small batch mixing, ranging from five kilos to 200 kilos and commercial-style pelleting of feeds. For this reason, this is an important support feature for research trials requiring short runs of specialized feed.  It is equipped with increased biosecurity with one directional flow, classroom space, and exterior bins for feed delivery. The Centre is named in honour of the late Dr. Harold Chute, a Class of ’44 alumnus, who was the most energetic proponent of the need for the facility and who is the largest single benefactor for the project. Dr. Chute was awarded an Honourary Degree in 1998, the Distinguished Alumnus Award in 1994 and the Honourary Associate Award in 1976.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/chute.jpg.lt_84c0bf21229ab0ac4156b7e2d085b9c8.res/chute.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Clinical Research Centre
+  </name>
+  <id>
+   26
+  </id>
+  <campus_id>
+   5
+  </campus_id>
+  <address>
+   5849 University Avenue
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/clinical-research.jpg.lt_8501d9e1fb1834460f9c2260993a9f59.res/clinical-research.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, ground floor access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Coburg Place
+  </name>
+  <id>
+   27
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Cochran Bay
+  </name>
+  <id>
+   28
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   In Prince Hall
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Collaborative Health Education Building (CHEB)
+  </name>
+  <id>
+   29
+  </id>
+  <campus_id>
+   5
+  </campus_id>
+  <address>
+   5793 University Avenue
+  </address>
+  <description>
+   Collaborative Health Education Building
+Dalhousie University
+5793 University Avenue
+PO Box 15000
+Halifax, Nova Scotia, Canada
+B3H 4R2
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/collaborative-health-education.jpg.lt_2c55bcc70fd0b78bedff1959ed8e6c67.res/collaborative-health-education.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Kellogg Library Learning Commons (2nd floor)
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   Yes
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Collins Building
+  </name>
+  <id>
+   30
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   160 College Road
+  </address>
+  <description>
+   You’ll find faculty and staff of the Environmental Sciences Department and the Environmental Horticulture program here in Collins. There’s also a lecture room and design studio. There’s also equipment and facilities for outdoor activities and Grounds Maintenance and the Friends of the Garden, who maintain our Rock Garden, are also located in this building. The building is named after Charles McKittrick Collins who taught horticulture here for 25 years.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/collins.jpg.lt_2c8eb6aeb1181f98b33d27c759f93196.res/collins.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Colpitt House
+  </name>
+  <id>
+   31
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1434-1444 Henry Street
+  </address>
+  <description>
+   Colpitt House, one of Dalhousie's mini residences, offers furnished, traditional dormitory rooms within a house facility. Mini residences make for a great community, often compared to a family. Dal's three mini rez houses boast newly renovated rooms and common areas that add to the diversity of the environment.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/colpitt.jpg.lt_8d016e2eb22619a627cdaa150b5bd892.res/colpitt.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Community Garden
+  </name>
+  <id>
+   32
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+  </address>
+  <description>
+   The AC community garden brings together students, staff, and community members with a range of experience growing food. The community garden brings people together from across campus and from the greater Truro area.  The garden is made-up of approximately 40 plots, where each member pays a fee of $20 for their plot.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/Ag-Community-Garden.jpg.lt_dae7ae79d83f08388b18241afbc103cb.res/Ag-Community-Garden.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Community Garden
+  </name>
+  <id>
+   33
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   Henry Street
+  </address>
+  <description>
+   The Dalhousie Community Garden is on Henry Street behind the computer science building (near the intersection of Henry Street and University Ave). The Garden is a student run collaborative project and space funded by a .50 cent Student Levy from the Dalhousie Urban Gardening Society (DUGS).
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/Dal-Urban-Garden-Society.jpg.lt_399da21d11057761afe337b5acf68629.res/Dal-Urban-Garden-Society.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Cox Institute
+  </name>
+  <id>
+   34
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   21 Cox Road
+  </address>
+  <description>
+   The Cox Institute of Agricultural Technology was officially opened in 1968 and is where you’ll find many of our faculties and service divisions. It’s home to the Registrar’s Office, Enrollment Management and Recruitment, the bookstore, Information Technology Services, Plant, Food, and Environmental Sciences faculty and Business and Social Sciences faculty. The attached greenhouses are a prime teaching and lab location in addition to the modern laboratories and classrooms. You can also get a snack or just hang out in our lunch/lounge facilities.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/admissions/Cox%20Institute%20slider.jpg.lt_6c9c738511415f6a651608a289bdebf1.res/Cox%20Institute%20slider.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   Yes
+  </food_services>
+  <accessibility>
+   entrance with ramp, access to all floors, washroom, parking
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Crop Development Institute
+  </name>
+  <id>
+   35
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   29 Vimy Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Cumming Hall
+  </name>
+  <id>
+   36
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   62 Cumming Drive
+  </address>
+  <description>
+   Cumming Hall was built to be the centre of life on campus. It’s named in honour of the first Principal, Melville Cumming (1905-27). This is where you’ll find Alumni Theatre where various large-scale lectures and performances happen. Most importantly, this is our main administration building so you’ll find the Principal/Dean’s Office, Associate Dean Academic, Financial Services, the mail room and our campus print shop.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/cumming.jpg.lt_78b3845b78007340ea9f5d8d725ce650.res/cumming.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Dairy Building
+  </name>
+  <id>
+   37
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   11 Sipu Awti
+  </address>
+  <description>
+   The Dairy Building is where you’ll find Health Services, Physical Plant, Residence Office, Career Services  and Safety &amp; Security.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/dairy.jpg.lt_1a765bd4f2552cfd30c923ea408f25a4.res/dairy.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Dalhousie Analytics
+  </name>
+  <id>
+   38
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1390 LeMarchant Street
+  </address>
+  <description>
+   The Dal Analytics team brings expertise in advanced analysis and interpretation; strategic data planning, reporting and management; institutional research; and writing to fulfill the promise of using institutional data for forward looking, evidence driven decision making for the offices of the President, Provost, Vice Presidents, and Deans.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/DalAnalytics.jpg.lt_b3b9caebf11cb4457145b1e7bc3dcd1b.res/DalAnalytics.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Dalhousie Arts Centre
+  </name>
+  <id>
+   39
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6101 University Avenue
+  </address>
+  <description>
+   The Dalhousie Arts Centre is the premier performing arts venue in the Halifax area. It is home to Dalhousie's Music and Theatre departments and the Dalhousie Art Gallery. The Centre features the Rebecca Cohn Memorial Auditorium with a capacity of 1040, the smaller Sir James Dunn Theatre, which holds 198, as well as three smaller studio theatres. There are more than 20 practice rooms, a script library, and construction and plastics workshops for students building sets. Upcoming events.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/art-centre.jpg.lt_8bf76076c5073662d22f137be6a7f506.res/art-centre.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Basement (Music Department)
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, mostly accessible, washroom
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Dalhousie Legal Aid
+  </name>
+  <id>
+   40
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   2209 Gottingen Street
+  </address>
+  <description>
+   Dalhousie Legal Aid Service is a community-based office in north-central Halifax operated by the Schulich School of Law at Dalhousie University. Dalhousie Legal Aid Service has been in operation since 1970. It was the first legal Service for poor people in Nova Scotia and is the oldest clinical law program in Canada. In fact, it is the only community law clinic in Nova Scotia. The Clinic is a unique partnership of community groups, law students, community legal workers and lawyers working together.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/legal-aid.jpg.lt_679541a352285f23dd561c50d84e75bb.res/legal-aid.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   washroom, elevator, ramp
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Dalplex
+  </name>
+  <id>
+   41
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6260 South Street
+  </address>
+  <description>
+   Dalplex is Dalhousie's Recreation and Athletic Centre as well as the home of the Kinesiology and Recreation Departments. Within its 16,722 square metres of activity space, you'll find an indoor running track, 50 meter/8 lane swimming pool, weight-training equipment, basketball courts, indoor rock climbing walls, saunas, squash, racquetball &amp; table tennis courts, and a Fun Zone play area for kids. Learn more about Dalplex.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/Dalplex.jpg.lt_46a7b62056535e9b89a5018ccd55b58a.res/Dalplex.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Basement
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   washroom, elevator, ramp, entrance
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Dentistry Building
+  </name>
+  <id>
+   42
+  </id>
+  <campus_id>
+   5
+  </campus_id>
+  <address>
+   Monday to Friday: 7:30 a.m. to 6:00 p.m.
+  </address>
+  <description>
+   5981 University Avenue
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/dentistry.jpg.lt_4e3abe812b65e9cec566e427eb72742f.res/dentistry.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   The Cavity (3rd floor), reserved for Dentistry and Dental Hygiene students; Health Professions Lounge (4th floor), operated by the Student's Union
+  </lounge_area>
+  <computer_access>
+   Carleton Computer Lab (Main floor, Room 2603A)
+  </computer_access>
+  <food_services>
+   Fillings Café, on the main floor
+  </food_services>
+  <accessibility>
+   access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   DeWolfe House
+  </name>
+  <id>
+   43
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   157 College Road
+  </address>
+  <description>
+   This is the home of our International Centre: the hub for international activities including international projects, exchanges, and international student recruitment.
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Economics
+  </name>
+  <id>
+   44
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6206, 6214, 6220 University Avenue
+  </address>
+  <description>
+   The Department of Economics is located in three houses at 6206, 6214 and 6220 University Avenue, across the street from the Killam Library. Administrative offices are in 6214 University Avenue.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/economics.jpg.lt_29360182a9eb0cc086ef3c8857eafcc7.res/economics.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Environmental Health &amp; Safety
+  </name>
+  <id>
+   45
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1435 Seymour Street
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Extension Engineering
+  </name>
+  <id>
+   46
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   20 Rockgarden Road
+  </address>
+  <description>
+   The Extension Engineering Building and Heating Plant initially housed all of the campus Engineering initiatives, consisting of shops, a classroom, and offices. In 1988, the central heating plant was renovated to include a wood chip boiler and chip storage bin. In 1996, this section became part of the Resources Corporate Service Unit.
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   F Building
+  </name>
+  <id>
+   47
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1360 Barrington Street
+  </address>
+  <description>
+   The renovation of the F and P buildings will expand Dalhousie’s existing research, commercialization, and innovation infrastructure facilities.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/f-building.jpg.lt_05846ba90c7d88efbb72a413093bea9c.res/f-building.jpg
+  </image_url>
+  <wireless>
+   n/a
+  </wireless>
+  <study_space>
+   n/a
+  </study_space>
+  <lounge_area>
+   n/a
+  </lounge_area>
+  <computer_access>
+   n/a
+  </computer_access>
+  <food_services>
+   n/a
+  </food_services>
+  <accessibility>
+   n/a
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Forrest Building
+  </name>
+  <id>
+   48
+  </id>
+  <campus_id>
+   5
+  </campus_id>
+  <address>
+   5869 University Avenue
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/forrest.jpg.lt_962eb4eb13186648b0977fd08994c86f.res/forrest.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   G11 (For Nursing Students only)
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, first floor access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Fraser House
+  </name>
+  <id>
+   49
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   10 Horseshoe Crescent
+  </address>
+  <description>
+   Fraser House accommodates 180 students in a coed environment. You get a large student lounge, a TV room, a games room, a kitchenette (for light snack preparation) and a laundry room on the ground level. All rooms have phone, TV and highspeed internet connections.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/fraser.jpg.lt_fe12e94638defb6bf51ab61aa4030ab2.res/fraser.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   G.H. Murray Building (G Building)
+  </name>
+  <id>
+   50
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1360 Barrington Street
+  </address>
+  <description>
+   The G.H. Murray Building is home to the Minerals Engineering Centre on and is closely affiliated with the Materials Engineering program. The Centre exists to provide research, analytical and advisory services to industries, universities and government bodies in Atlantic Canada, as well as in other parts of Canada and internationally.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/murray.jpg.lt_f4d86cb4fe1ab24edfb47e1b4a6fba34.res/murray.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Rooms J280 and G250 (2nd floor)
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Room G210
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   first floor access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Gerard Hall
+  </name>
+  <id>
+   51
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   5303 Morris Street
+  </address>
+  <description>
+   Gerard Hall is a traditional style co-ed residence located in the heart of downtown on Dalhousie's Sexton campus. This 12-storey buildilng offers single and double rooms, laundry facilities and a main lounge area with a TV as well as a pool table available to all students. Residents normally use the O'Brien dining hall (only minutes away) but can also use the dining halls in Howe Hall, Risley Hall or Shirreff Hall.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/gerard-hall.jpg.lt_03e0ab8166ef0c93d6cda5d75730896d.res/gerard-hall.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Common area
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, parking, full access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Glengary Apartments
+  </name>
+  <id>
+   52
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1253 Edward Street
+  </address>
+  <description>
+   Glengary is a small, 16-unit apartment building located in the heart of Studley campus. This co-ed apartment provides accommodation for 40 students in 12 three-bedroom apartments and four bachelor apartments.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/glengary.jpg.lt_9467d208f36f4ed2d1eb321bf38bb283.res/glengary.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Goldberg Computer Science Building
+  </name>
+  <id>
+   53
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6050 University Avenue
+  </address>
+  <description>
+   At 6,500 square metres, the building equips the Faculty of Computer Science's faculty and students with a large auditorium and seminar rooms, study carrels, offices, nine "playgrounds” and an ICT Sandbox for research and development, high-tech equipment, full and fast hardwiring, and an atrium with a coffee shop. Its design features plentiful open space and a generous use of windows.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/computer-science.jpg.lt_86966c7ab6400fe343831e8ea0f16e6e.res/computer-science.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Desk workstations with laptop computer hook-ups in various locations (2nd, 3rd, 4th floors) Atrium (lower level)
+  </study_space>
+  <lounge_area>
+   Atrium (lower level)
+  </lounge_area>
+  <computer_access>
+   Learning Centre, Room 233 (2nd floor) and computer workstations: visit Help Desk to set up a username for use, down the left hallway on the first floor.
+  </computer_access>
+  <food_services>
+   Second Cup (Lower Level)
+  </food_services>
+  <accessibility>
+   entrance, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Graduate Student Residence (O Building)
+  </name>
+  <id>
+   54
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   5231 Morris Street
+  </address>
+  <description>
+   Located on Dalhousie's Sexton campus, Grad House is home to 13 returning, transfer or graduate students in large, single rooms with shared kitchen, laundry and washroom facilities.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/graduate-residence.jpg.lt_2fee97fff31b267c35ff54244892e8e0.res/graduate-residence.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Haley Institute of Animal Science and Aquaculture
+  </name>
+  <id>
+   55
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   58 Sipu Awati (front entrance) 23 Sheep Hill Lane (side entrance)
+  </address>
+  <description>
+   The Haley Institute of Animal Science and Aquaculture has classrooms, labs and offices for the Animal Science section of the Department of Plant &amp; Animal Sciences. There’s labs for genetics, nutrition, physiology, animal health technology, and animal products. Our aquaculture facilities are also on-site plus the offices of Centre for Continuing &amp; Distance Education.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/haley.jpg.lt_de0ec693f2efaa5d00538ec59ba56720.res/haley.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   Yes
+  </food_services>
+  <accessibility>
+   entrance, access to all floors, washroom
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Hancock Building
+  </name>
+  <id>
+   56
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   65 River Road
+  </address>
+  <description>
+   Here you’ll find the diagnostic pathology laboratory for farms and veterinarians around the province. It’s named for Dr. E. E. I. Hancock, the first director of Animal Pathology for the Nova Scotia Department of Agriculture.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/hancock.jpg.lt_951d5fa11bec2b0e9b4a8a6b46b8d32b.res/hancock.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Harlow Institute
+  </name>
+  <id>
+   57
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   61 Rock Garden Road
+  </address>
+  <description>
+   Harlow is NSAC’s original science building for teaching. It replaced the old science that burned and it was the centre of campus when staff and students returned after the fire and a temporary relocation to Debert. The Cox Institute of Agricultural Technology has replaced the teaching and lab facilities. Harlow is named for Dr. L.C. Harlow, Professor of Chemistry and Soils, Provincial Chemist (1906-41) and NSAC Principal from 1940 to 1941.Today the Harlow Institute houses staff from the Nova Scotia Department of Agriculture.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/harlow.jpg.lt_4b2f1c5f5de2745aa2e8df4af2dc4524.res/harlow.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Hart House (K Building)
+  </name>
+  <id>
+   58
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1340 Barrington Street
+  </address>
+  <description>
+   The Department of Engineering Mathematics and Internetworking offers graduate degrees within the faculty of Engineering and is housed in this heritage home in downtown Halifax. The department has spacious student offices and computer access. Ultra Maritime Digital Communications Centre also has space in the building, as does the Nova Scotia Product Design and Development Centre and SuperNOVA.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/hart.jpg.lt_5af2a79537a1e32ad0a3e3dce76a3cb9.res/hart.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Yes
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, first floor access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Henry Hicks Building
+  </name>
+  <id>
+   59
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6299 South Street
+  </address>
+  <description>
+   The Henry Hicks Academic Building, located on Dalhousie's Studley campus, houses classrooms, the Registrar's Office, Student Accounts, the Department of Political Science, the Faculty of Graduate Studies and a number of student services and administration offices including Human Rights &amp; Equity Services.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/hicks.jpg.lt_43d9a6a9cb2c0bae0f0257a642928bf8.res/hicks.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Outdoors in front of and behind Henry Hicks Building (picnic tables, benches, and grass)
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, access to all floors, washrooms
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Herb Garden
+  </name>
+  <id>
+   60
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+  </address>
+  <description>
+   The Herb Garden is laid out in a traditional "four quarter" design which predates medieval gardens. The plants are a combination of medicinal and culinary plants, with some dye plants included.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/AgHerb-Garden.jpg.lt_d35aaf37e8798e7331d0b9ccfbc5756d.res/AgHerb-Garden.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Howe Hall
+  </name>
+  <id>
+   61
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6230 Coburg Road
+  </address>
+  <description>
+   Howe Hall's site had been reserved for a residence since the original campus plan was created in 1912.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/howe-hall.jpg.lt_ddc7b6f1d4edbbf7cc33de39b4b9fdec.res/howe-hall.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Common area
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   Dining Hall (1st floor)
+  </food_services>
+  <accessibility>
+   entrance, variable access, parking
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Humanities House
+  </name>
+  <id>
+   62
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   56-58 Rock Garden Road
+  </address>
+  <description>
+   Humanities House houses the faculty members who focus on humanities and social science specialties. The building was originally the groundskeeper's house.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/humanities.jpg.lt_94facd9c4cbe2a5cb5d7bef381799691.res/humanities.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Industrial Engineering (I Building)
+  </name>
+  <id>
+   63
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   5269 Morris Street
+  </address>
+  <description>
+   Originally known as the Tech House, or the Morroy Building, this building is the  home of the Industrial Engineering department. Linked to the C1 Building, it includes an ergonomics lab and a manufacturing lab, as well as an undergraduate student computer room and two new classrooms.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/industrial.jpg.lt_9fa7dba56732ee1d1c8d62f7f12bcbc0.res/industrial.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Room I221
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   full access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   International Ocean institute
+  </name>
+  <id>
+   64
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6414 Coburg Road
+  </address>
+  <description>
+   Home to the Canadian operational centre of the International Ocean Institute.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/6420coburg.jpg.lt_89e918dd7ef39f00f8420edcd1275668.res/6420coburg.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   ITS House
+  </name>
+  <id>
+   65
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1322 Robie Street
+  </address>
+  <description>
+   ITS provides Dalhousie technical services, such as email, internet connections, web sites, telephone services, computer training, and support.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/itshouse.jpg.lt_484abf91a44fe6d35f6c7c0c4cb951bb.res/itshouse.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   ITS‑EAS
+  </name>
+  <id>
+   66
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1312 Robie Street
+  </address>
+  <description>
+   Enterprise Application Systems (EAS) provides services and products to support and improve university administration. This includes maintaining existing applications, implementation of new applications, system upgrades and support services for a variety of information technology platforms.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/admin-computing.jpg.lt_50f343036a879edfba901148bdba999e.res/admin-computing.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Jenkins Hall
+  </name>
+  <id>
+   67
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   40 Horseshoe Crescent
+  </address>
+  <description>
+   You gotta eat! Jenkins Hall is the campus meal hall, named for Dr. W. A. Jenkins, NSAC’s principal from 1964 to 1972. You’ll enjoy views of the Salmon River valley and you’ll love the casual set-up of table and chairs plus a TV for all that news (gameshows, sports highlights) you don’t want to miss. This is also the place you’ll find our campus hot spot, The Barn.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/jenkins.jpg.lt_53e51b96f9606d9070c212b5aea5b07c.res/jenkins.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   Yes
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Kenneth C. Rowe Management Building
+  </name>
+  <id>
+   68
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6100 University Avenue
+  </address>
+  <description>
+   Home to the Faculty of Management, this modern, environmentally-designed building, opened in the fall of 2005, featuring many great amenities from state-of-the-art teaching facilities to the five-storey atrium of natural light.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/rowe.jpg.lt_6f4254c062676e902ad38c6e5e545390.res/rowe.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   Room 3080, Room 4001, Room 4055
+  </computer_access>
+  <food_services>
+   Green Café, featuring Just Us! Coffee
+  </food_services>
+  <accessibility>
+   entrance, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Killam Library
+  </name>
+  <id>
+   69
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6225 University Avenue
+  </address>
+  <description>
+   The Killam Memorial Library is the largest academic library in the Maritimes, with over half a million books and 25,000 journals online and on the shelf. The Killam Library also houses Student Accessibility Centre, the Learning Commons, the Writing Centre, conference rooms, and on the lower level, a "tunnel" runs underground connecting to the Life Sciences Centre.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/killam.jpg.lt_3037db728a38513ccb92db303fa8b758.res/killam.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Learning Commons (main floor) Quiet Learning Commons (2nd floor) Study carrels and tables on all levels Group Study Rooms available by reservation (main floor) McNab Reading Room (2nd floor)
+  </study_space>
+  <lounge_area>
+   Killam Atrium (1st floor) International Student and Exchange Services lounge (room G25A, 1st floor) Killam Plaza outdoors (picnic tables, chairs) Killam Plaza - Outdoors (picnic tables, chairs, etc
+  </lounge_area>
+  <computer_access>
+   Learning Commons (1st floor) Quiet Learning Commons (2nd floor) and throughout library
+  </computer_access>
+  <food_services>
+   Second Cup, Subway, Killam Bistro (1st floor)
+  </food_services>
+  <accessibility>
+   entrance, mostly accessible, washroom
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   King's Arts and Administration
+  </name>
+  <id>
+   70
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   Yes
+  </food_services>
+ </building>
+ <building>
+  <name>
+   King's Gymnasium
+  </name>
+  <id>
+   71
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   King's Library
+  </name>
+  <id>
+   72
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Many study carrels on lower floor. During exams a group study room is available that holds 2-6 people.
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Computers available on main floor and lower floor.
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   King's New Academic Building
+  </name>
+  <id>
+   73
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   2nd Floor: G. Peter Wilson Room
+  </study_space>
+  <lounge_area>
+   2nd Floor: G. Peter Wilson Room
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Langille Athletic Centre
+  </name>
+  <id>
+   74
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   20 Cumming Drive
+  </address>
+  <description>
+   Langille Athletic Centre is home to the Dalhousie Rams varsity sports teams. Students, staff and members of our larger community share this 40,000 square foot facility and the many programs it offers. There are two gymnasiums, accommodating basketball, volleyball, badminton, indoor soccer, plus racquetball and squash courts. The facility also offers fitness and weight rooms.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/langille.jpg.lt_9790ea047b9833cabed654a42b709af4.res/langille.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   LeMarchant Place
+  </name>
+  <id>
+   75
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1246 LeMarchant Street
+  </address>
+  <description>
+   LeMarchant Place is also the starting point for campus tours.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/lemarchant.jpg.lt_1150d0ebb7fcaef7fbf707701a211aed.res/lemarchant.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, access to all floors, parking
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Life Sciences Centre
+  </name>
+  <id>
+   76
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1355 Oxford Street
+  </address>
+  <description>
+   The LSC is home to the Faculty of Science's dean's office and the Biology, Psychology and Oceanography departments of Dalhousie, along with Earth Sciences, which share common areas, lecture halls, facilities and workshops.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/lsc.jpg.lt_00713d73ae55b4e9200deefb65ae633d.res/lsc.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   At the end of each hallway (3rd, 4th, 5th, 6th, 7th, 8th floors)
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Room 2012 LSC (Earth Sciences), Room 4207 (Psychology), Room 200 and 2087 (Faculty of Science)
+  </computer_access>
+  <food_services>
+   Tim Hortons (Lower level) Extreme Pita, Pizza Pizza, Grille Works (Main level Cafeteria)
+  </food_services>
+  <accessibility>
+   mostly accessible
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Life Sciences Research Institute
+  </name>
+  <id>
+   77
+  </id>
+  <campus_id>
+   5
+  </campus_id>
+  <address>
+   1344 Summer Street
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/lsri.jpg.lt_d91e1736d9a772a5c09b96dd173ea8a1.res/lsri.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Lyall House
+  </name>
+  <id>
+   78
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1416/1424 Henry Street
+  </address>
+  <description>
+   Lyall House, one of Dalhousie's mini residences, offers furnished, traditional dormitory rooms within a house facility. Mini residences make for a great community, often compared to a family. Dal's three mini rez houses boast newly renovated rooms and common areas that add to the diversity of the environment.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/lyall.jpg.lt_02661f2da0fbecf4b04ea77e3ab6e511.res/lyall.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No pubic computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Macdonald Building
+  </name>
+  <id>
+   79
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6300 Coburg Road
+  </address>
+  <description>
+   The Macdonald building was the university library at one time. The old reading room has been refurbished as University Hall, a meeting and special events room. Procurement also has offices in the building.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/macdonald.jpg.lt_8150d94f3ee8e3c06d9d865481d8881a.res/macdonald.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, access to all floors, washroom
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Machinery Shed
+  </name>
+  <id>
+   80
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   1 Farmstead Court
+  </address>
+  <description>
+   The machinery shed is the centre of crop management, provides machinery, seed and fertilizer storage and machinery repair and maintenance facilities.
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   MacRae Library
+  </name>
+  <id>
+   81
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   135 College Road
+  </address>
+  <description>
+   This will be one of your usual haunts on campus. The MacRae Library has tons of monographs and documents, microfiche, journals and the regular fare of books. It also gives you access to essential electronic journals and databases. As part of the Novanet Consortium, you can access more than 2 million volumes from ten post-secondary institutions in Nova Scotia, and our library is among the top university collections in Canada.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/macrae.jpg.lt_f73a6ae047be9e39bc22ac4875d2b0c0.res/macrae.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   Yes
+  </computer_access>
+  <food_services>
+   Yes (vending machine)
+  </food_services>
+  <accessibility>
+   entrance, access to all floors, washroom
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Marion McCain Arts and Social Sciences
+  </name>
+  <id>
+   82
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6135 University Avenue
+  </address>
+  <description>
+   The Marion McCain Arts and Social Sciences Building, also known as the "FASS Building" (Faculty of Arts and Social Sciences), opened in 2001. The building boasts large auditoriums, language labs, classrooms and offices of the Dean and Arts and Social Sciences departments.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/mccain.jpg.lt_676363e3d971c462de22e4b77bf67964.res/mccain.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Atrium/Lobby Area (1st floor) Fireplace Lounge, Room 1151 (1st floor) Outdoor Courtyard (restricted access. This space must be booked through Campus Bookings; Security due to fire restriction): chairs, picnic tables, grass, etc. Room 2151(2nd floor) Outdoor Terrace
+  </lounge_area>
+  <computer_access>
+   Rooms 2018, 2019, 2022 &amp; 2104 (2nd floor)
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, full access, washroom
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Mark A Hill Accessibility Centre
+  </name>
+  <id>
+   83
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6225 University Avenue
+  </address>
+  <description>
+   Just outside the Killam, next to the stairway, you'll find the Mark A. Hill Accessibility Centre, which is open during testing only. For inquiries, please visit the Killam Library, Room G28, Monday-Friday, 8:30 a.m.- 4:30 p.m.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/accessibility.jpg.lt_a954da1d4f35a759f9b97a8df37af9a5.res/accessibility.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   full access, washroom
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Middle Bay
+  </name>
+  <id>
+   84
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   In Prince Hall
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Mona Campbell Building
+  </name>
+  <id>
+   85
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1459 LeMarchant Street
+  </address>
+  <description>
+   Located at the intersection of Coburg Road and LeMarchant Street, the Mona Campbell building opened in the fall of 2010. Constructed using leading-edge technology, including solar panels and smart lighting, it's also just one of three buildings in North America to use "BubbleDeck" technology, a revolutionary building method based on the use of hollow, recycled plastic balls.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/mona-campbell.jpg.lt_a478dac0aecf356c71267d816317766a.res/mona-campbell.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Graduate Study Area on the third floor
+  </study_space>
+  <lounge_area>
+   Student common areas on both ends of the building on each floor
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   Topio's Pizzeria (1st floor)
+  </food_services>
+  <accessibility>
+   full access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Moren House (L Building)
+  </name>
+  <id>
+   86
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1334 Barrington Street
+  </address>
+  <description>
+   The Sexton campus location of the Science, Information Technology, Engineering Co-operative Education (SITE) office, which acts as a liaison among students, employers and the university.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/moren-house.jpg.lt_1d8372f3fdbfa3626883b695dd913e23.res/moren-house.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Morris 5247
+  </name>
+  <id>
+   87
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   5247 Morris Street
+  </address>
+  <description>
+   Currently the Halifax Data Collection Site for the Canadian Longitudinal Study on Aging. Dalhousie University is participating in this Canada-wide study that will offer new insights into how to age well.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/morris-5247.JPG.lt_6c2c96e9b340f579d804ff4b3510e7ba.res/morris-5247.JPG
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   N Building
+  </name>
+  <id>
+   88
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1360 Barrington Street
+  </address>
+  <description>
+   The Centre for Water Resources Studies was established in 1981 by the Faculty of Engineering to address water issues facing Atlantic Canada through applied research. Their Environmental Hydrology Lab and the Clean Water Laboratory are both located in N Building. The main office for the centre is located in D Building.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/n-building.jpg.lt_657321ab7e349415a93cf69a068dd7b6.res/n-building.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   North Pole Bay
+  </name>
+  <id>
+   89
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   One TV common room
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   In Prince Hall
+  </food_services>
+ </building>
+ <building>
+  <name>
+   O'Brien Hall (M Building)
+  </name>
+  <id>
+   90
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   5217 Morris Street
+  </address>
+  <description>
+   O'Brien Hall (formerly a co-ed residence) features the Sexton Campus Dining Hall and is now home to a variety of Dalhousie University administrative units.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/obrien.jpg.lt_4760d842aad7f6eb3a05f813012172bd.res/obrien.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   Dining Hall (1st floor)
+  </food_services>
+  <accessibility>
+   full access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Office of the Dean, Engineering
+  </name>
+  <id>
+   91
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   Current home to the Office of the Dean of the Faculty of Engineering.
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Physical Plant Shops
+  </name>
+  <id>
+   92
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   11 Sheep Hill Lane
+  </address>
+  <description>
+   Where the Physical Plant does a lot of its work on campus.
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Physical Plant Storage
+  </name>
+  <id>
+   93
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   President's Lodge
+  </name>
+  <id>
+   94
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   President's Residence
+  </name>
+  <id>
+   95
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1460 Oxford Street
+  </address>
+  <description>
+   Originally the home of a West Indies merchant, this house was bought with a donation from former Canadian Prime Minister (and Dal law alumni), R.B. Bennett in 1925.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/president.jpg.lt_155dadf4add1598ccd3c9ba27304dc11.res/president.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Prince Hall
+  </name>
+  <id>
+   96
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   Yes
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Radical Bay
+  </name>
+  <id>
+   97
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   In Prince Hall
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Ralph M. Medjuck Building (H Building)
+  </name>
+  <id>
+   98
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   5410 Spring Garden Road
+  </address>
+  <description>
+   This former home of the Technical University of Nova Scotia is now the main building for the Faculty of Architecture and Planning. It contains faculty offices, classrooms, studio space, study space and student lounges.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/medjuck.jpg.lt_794591003dce9bbaf04dbb71fe8d607f.res/medjuck.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   Rooms HA30, HB1, East Studio, West Studio, Room HE-1, 4 laser printers
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   mostly accessible
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Residence Houses (Henry Street)
+  </name>
+  <id>
+   99
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1410 Henry Street
+  </address>
+  <description>
+   Residence Houses offer traditional, furnished rooms within a co-ed house facility. Each house has a kitchen, living room and bathroom, and individual student bedrooms.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/residence-henry.jpg.lt_87dbe21312266f24ddeb09c8484a4e8f.res/residence-henry.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Residence Houses (Seymour Street)
+  </name>
+  <id>
+   100
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1435 Seymour Street
+  </address>
+  <description>
+   Residence Houses offer traditional, furnished rooms within a co-ed house facility. Each house has a kitchen, living room and bathroom, as well as individual student bedrooms.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/residence-seymour.jpg.lt_d1b688dac625681db0423e17817ba323.res/residence-seymour.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Risley Hall
+  </name>
+  <id>
+   101
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1233 LeMarchant Street
+  </address>
+  <description>
+   Risley Hall is a co-ed residence centrally located on Dalhousie's main campus. Opened in 2004, Risley offers single rooms available in moderate, low-key, and quiet sections. Common areas include a main lounge area with a TV, a games room and laundry facilities. A dining hall is also available on the main floor.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/risley.jpg.lt_c16c03a69cccf1a6b607b6423527417c.res/risley.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Common area
+  </lounge_area>
+  <computer_access>
+   No public computer faciltiy
+  </computer_access>
+  <food_services>
+   Dining Hall (1st floor)
+  </food_services>
+  <accessibility>
+   entrance, access to all floors, parking
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Rock Garden
+  </name>
+  <id>
+   102
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+  </address>
+  <description>
+   The Rock Garden is a gift to the Agricultural Campus from the Friends of the Garden. The Friends is a dedicated group of approximately 25 volunteer gardeners who help maintain the specialty gardens of the campus, as well as raise funds for new garden initiatives.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/AgCampus-RockGarden-Slide.jpg.lt_8932e3dcddc6f4f71428abf443867ad5.res/AgCampus-RockGarden-Slide.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Roulston House
+  </name>
+  <id>
+   103
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1443 Seymour Street
+  </address>
+  <description>
+   The South House Sexual and Gender Resource Centre supports women and all people dealing with oppression on the basis of sexuality and gender. They offer a large space that is available for folks to use and come hang out as well as a feminist library and free meeting space for community and students.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/roulston.jpg.lt_c8e2f9bef5f0590b514ff306e2426f61.res/roulston.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Common area
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Ruminant Animal Centre
+  </name>
+  <id>
+   104
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   39 Farmstead Court
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/rac.jpg.lt_c30a54ec020b903993a3a02689a57fd1.res/rac.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Rural Research Centre
+  </name>
+  <id>
+   105
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   56-58 Rock Garden Road
+  </address>
+  <description>
+   The RRC is a small research institute focused on rural research and making connections between research and the people who shape rural life.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/rural-research.jpg.lt_c103984c4151ad9d952192c1515fccda.res/rural-research.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Seismograph
+  </name>
+  <id>
+   106
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+  </address>
+  <description>
+   Halifax, Nova Scotia, Canada  B3H 4R2
+1-902-494-2211
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Sexton House (E Building)
+  </name>
+  <id>
+   107
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+   1360 Barrington Street
+  </address>
+  <description>
+   Named after Frederic Henry Sexton, founder and president of the Nova Scotia Technical College, Sexton House is home to the faculty offices for the School of Planning and the Department of Process Engineering and Applied Science.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/sexton-house.jpg.lt_bef08af9ef92f16902a14315bb3062e7.res/sexton-house.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Sexton Memorial Gymnasium (J Building)
+  </name>
+  <id>
+   108
+  </id>
+  <campus_id>
+   2
+  </campus_id>
+  <address>
+  </address>
+  <description>
+   Sexton Memorial Gymnasium is located at 1360 Barrington Street. Click here to locate Sexton Memorial Gymnasium on Dalhousie's campus map.
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   full access
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Sheep Barn
+  </name>
+  <id>
+   109
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   19 Farmstead Court
+  </address>
+  <description>
+   The original sheep barn was constructed in 1969 and is open to the south. The facility has since expanded with the addition of a heated lambing area, enclosed handling system and hay storage. We have a purebred 100 ewe flock consisting of Rideau Arcotts, Texels and Karakuls.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/sheep-barn.jpg.lt_25f967e208b27bfae4770ad0250396fc.res/sheep-barn.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Shirreff Hall
+  </name>
+  <id>
+   110
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6385 South Street
+  </address>
+  <description>
+   Shirreff Hall is located minutes from classes, the Killam Library, Dalplex and other facilities. Comprised of three houses: New Eddy (including the Annex), Old Eddy, and Newcombe (1966), both single and double rooms are available in moderate, low-key and quiet areas. Common areas include a main lounge area with a TV, a games room and laundry facilities.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/shirreff.jpg.lt_91ef18c47fd828804df8f9149559970e.res/shirreff.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Common area
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   Dining Hall (1st floor)
+  </food_services>
+  <accessibility>
+   entrance with ramp, first floor access, washroom, parking
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Sir James Dunn Building
+  </name>
+  <id>
+   111
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6310 Coburg Road
+  </address>
+  <description>
+   The Sir James Dunn Science building is home to the Department of Physics and Atmospheric Science, several classrooms used for for science courses, computer labs and the Halifax Planetarium.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/dunn.jpg.lt_465e59a46295d86d3ba533fd585c6555.res/dunn.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Resource Centre
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   Room 301B (Engineering students only), 2nd Floor (Physics students only)
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance with ramp, mostly accessible, washroom, parking
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Stairs House
+  </name>
+  <id>
+   112
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6230 South Street
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/stairs.jpg.lt_b7e7510757fe773f7fccf06adfcfc8f2.res/stairs.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Steele Ocean Sciences Building
+  </name>
+  <id>
+   113
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1355 Oxford Street
+  </address>
+  <description>
+   A LEED Silver candidate for environmental design the building includes an electric car charging station, permeable pavement for stormwater control, passive lighting design, cycling support facilities, and other green features.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/DOSB.jpg.lt_4b0317f725d25746310faa6e0ea14a78.res/DOSB.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Storage Facility
+  </name>
+  <id>
+   114
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1459 Oxford Street
+  </address>
+  <description>
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/storage.jpg.lt_fb0d885582ba4f1575faf21e20a6bdc0.res/storage.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Student Union Building (SUB)
+  </name>
+  <id>
+   115
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6136 University Avenue
+  </address>
+  <description>
+   The SUB is the hub of student extracurricular and social life on campus. It houses many student services:
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/sub.jpg.lt_a8eff5a5d609b89770e220e209a00307.res/sub.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Frank G. Lawson Career Information Centre (4th floor) Study areas all visible from stairs (1st, 2nd, 3rd floors) *Many sites have laptop computer hookups
+  </study_space>
+  <lounge_area>
+   Lounge areas all visible from stairs (1st, 2nd, and 3rd floors)
+  </lounge_area>
+  <computer_access>
+   Campus Copy (lower level) Frank G. Lawson Career Information Centre (4th floor) Career &amp; Leadership Development Centre
+  </computer_access>
+  <food_services>
+   Pete's ToGoGo
+
+Cafe Karachi
+Tim Hortons
+Fresh Grille
+Global Village
+2Mato Pizzeria
+Bento Sushi 
+The Grawood
+
+Loaded Ladle
+  </food_services>
+  <accessibility>
+   entrance, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Studley Gym
+  </name>
+  <id>
+   116
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6185 South Street
+  </address>
+  <description>
+   The Studley Gymnasium is part of Dalhousie's athletics facilities. With a capacity of 200, the gym is used for varsity team practices, intramural and club activities. Some offices for faculty and staff of the School of Health and Human Performance are in the Studley Gym, as well as a dance studio in the basement. The Studley Gym is located at the end of University Avenue, across from the Killam Library. To access it from South Street, take Alumni Crescent.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/studley-gym.jpg.lt_7a45dc23f30f4cc0ff59575945869fd0.res/studley-gym.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Studley House
+  </name>
+  <id>
+   117
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1452 LeMarchant Street
+  </address>
+  <description>
+   Studley House is a section of Howe Hall, the largest co-ed residence at Dalhousie. Single and double rooms are available with a variety of amenities.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/studley-house.jpg.lt_19574d4ffbf63eabfbcac216f54418c6.res/studley-house.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Tennis Courts
+  </name>
+  <id>
+   118
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6385 South Street
+  </address>
+  <description>
+   Between the Life Sciences Centre and South Street are two outdoor tennis courts. Court hours are 7am - 8pm seasonally. Call 902-494-6818 to book court time.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/tenniscourts.jpg.lt_25cfcf282732e351837d19fffc353907.res/tenniscourts.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   The Link
+  </name>
+  <id>
+   119
+  </id>
+  <campus_id>
+   3
+  </campus_id>
+  <address>
+   6350 Coburg Road
+  </address>
+  <description>
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Transition Year Program
+  </name>
+  <id>
+   120
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   1400 LeMarchant Street
+  </address>
+  <description>
+   The home of the Transition Year Program (TYP), a one-year program designed for First Nations and African Canadian adults. TYP prepares students to meet standard Dalhousie entrance requirements.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/typ.jpg.lt_0594ee57525281412bc5d907e4950753.res/typ.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Trueman House
+  </name>
+  <id>
+   121
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+   30 Horseshoe Crescent
+  </address>
+  <description>
+   Trueman is co-ed and holds 100 students on three floors. You’ll find grad and mature students in an apartment style arrangement on the main floor. You get a large TV/games room, smaller student lounges and a common laundry room on the ground level. All rooms have phone, TV and highspeed Internet connections.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/trueman.jpg.lt_489aa2109be8a47a721d2c16ef2ba920.res/trueman.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   No public computer facility
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Tupper Building &amp; Kellogg Library
+  </name>
+  <id>
+   122
+  </id>
+  <campus_id>
+   5
+  </campus_id>
+  <address>
+   5850 College Street
+  </address>
+  <description>
+   The Kellogg Library Learning Commons can now be found in the Collaborative Health Education Building (2nd floor).
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/tupper.jpg.lt_a6b10140cc5c5cd83c9659e7eb1b64fa.res/tupper.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Cafeteria (1st floor)
+  </study_space>
+  <lounge_area>
+   Cafeteria(1st floor) Hallway along glass windows, benches, etc. (1st floor) Main Lobby (1st floor)
+  </lounge_area>
+  <computer_access>
+   Kellogg Health Sciences Library (1st floor)
+  </computer_access>
+  <food_services>
+   Starbucks (Main floor)
+  </food_services>
+  <accessibility>
+   entrance with ramp, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Turf Research Building
+  </name>
+  <id>
+   123
+  </id>
+  <campus_id>
+   4
+  </campus_id>
+  <address>
+  </address>
+  <description>
+   Houses the Turf research equipment.
+  </description>
+  <image_url>
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   University Children's Centre
+  </name>
+  <id>
+   124
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6101-6111 South Street
+  </address>
+  <description>
+   The University Children's Centre operates independently, with the support of Dalhousie, on the ground floor of the building.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/childrens-centre.jpg.lt_27b217e28c68519e7b9ad05a2e56f307.res/childrens-centre.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+ <building>
+  <name>
+   University Club
+  </name>
+  <id>
+   125
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6259 South Street
+  </address>
+  <description>
+   The University Club is open to all Dalhousie &amp; Kings faculty, alumni and staff. There is a dining room and several meeting rooms in the club, including a Great Hall which holds up to 300 people. The basement of the university club houses the cosy Earl of Dalhousie pub.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/uclub.jpg.lt_fe6d3752d8629ad5fec79102fc3d6cc6.res/uclub.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   Open to members and guests
+  </food_services>
+ </building>
+ <building>
+  <name>
+   Wallace McCain Learning Commons
+  </name>
+  <id>
+   126
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   Lord Dalhousie Drive
+  </address>
+  <description>
+   The McCain Learning Commons features over 30 computers, a printing station, a quiet study area, Help Desk, librarian services, bookable study rooms, and a small classroom bookable through the Faculty of Science office.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/WM-learning-commons.jpg.lt_7671ef8aba43f66f2b24d3353dc70f7b.res/WM-learning-commons.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Yes
+  </study_space>
+  <lounge_area>
+   Yes
+  </lounge_area>
+  <computer_access>
+   Yes
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+  <accessibility>
+   entrance, access to all floors
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Weldon Law Building &amp; Law Library
+  </name>
+  <id>
+   127
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   6061 University Avenue
+  </address>
+  <description>
+   The Weldon Law Building is the home of the Schulich School of Law and the Sir James Dunn Law Library. The building contains class and seminar rooms, faculty and administrative offices and lounge space for students and staff. The library collection contains over 220,000 volumes of common law materials and legal periodicals, and provides students ample study space.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/law.jpg.lt_5218c8d203c189a966d40521ba330a63.res/law.jpg
+  </image_url>
+  <wireless>
+   Yes
+  </wireless>
+  <study_space>
+   Throughout Sir James Dunn Law Library
+  </study_space>
+  <lounge_area>
+   Outside Sir James Dunn Law Library (2nd floor)
+  </lounge_area>
+  <computer_access>
+   Sir James Dunn Law Library (1st and 2nd floor)
+  </computer_access>
+  <food_services>
+   Brief Break Café in Law Student Lounge, Room W225 (2nd floor)
+  </food_services>
+  <accessibility>
+   entrance with ramp, access to all floors, washroom
+  </accessibility>
+ </building>
+ <building>
+  <name>
+   Wickwire Field
+  </name>
+  <id>
+   128
+  </id>
+  <campus_id>
+   1
+  </campus_id>
+  <address>
+   Alumni Crescent
+  </address>
+  <description>
+   Wickwire Field is Dalhousie's main outdoor sport facility. Dalhousie Tigers soccer, field hockey, football, lacrosse, and rugby teams play here. Its FieldTurf-Tarkett artificial playing surface measures 200 by 90 yards. To make a reservation to use the field, please contact Dalplex Facility Reservations at 902-494-6467 or reservations@dal.ca.
+  </description>
+  <image_url>
+   https://cdn.dal.ca/content/dam/dalhousie/images/campus-maps/wickwire.jpg.lt_5dd9c90b224ba4b537880eded1d1c2c6.res/wickwire.jpg
+  </image_url>
+  <wireless>
+   No
+  </wireless>
+  <study_space>
+   No
+  </study_space>
+  <lounge_area>
+   No
+  </lounge_area>
+  <computer_access>
+   No
+  </computer_access>
+  <food_services>
+   No
+  </food_services>
+ </building>
+</list>

@@ -83,4 +83,4 @@ def get_building_detail(url, campus_ids) -> Building:
     return Building(name, address, description, img_url, amenities, campus_id)
 
 
-# scrape_buildings()
+scrape_buildings()

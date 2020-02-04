@@ -36,7 +36,7 @@ def dict_to_xml_rows(obj: Dict[str, int], table_name: str):
         <{}> 
         <name>{}</name>
         <id>{}</id>
-        <{}/>
+        </{}>
         """.format(table_name, key, obj[key], table_name)
 
     return """<?xml version="1.0"?>
